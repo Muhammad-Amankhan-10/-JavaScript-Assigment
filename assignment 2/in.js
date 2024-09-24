@@ -38,5 +38,28 @@
 
         // chap # 13
         
+         // (&&) if any condition false so the ans is false 
+        // (||) if any condition true so ans is true 
+       
+        // var x = 300;
+        // var b = 15;
+        // if (x >= 300 && b < 15){
+        //     alert("true")
+        // }
+        // else{
+        //     alert("false")
+        // }
+
+        // var x = 300;
+        // var b = 15;
+        // if (x >= 300 || b < 15){
+        //     alert("true")
+        // }
+        // else{
+        //     alert("false")
+        // }
+
+
+
 
         
