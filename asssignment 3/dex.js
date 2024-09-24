@@ -1,5 +1,5 @@
 
-var a=Number(prompt("Enter time in 24-hour format (e.g., 1900 for 7 PM):"));
+var a=Number(prompt("Enter time in 24-hour format (example, 1900 for 7 PM):"));
 
 if(a>=0 && a<1200 ){
     alert("GOOD MORNING")
